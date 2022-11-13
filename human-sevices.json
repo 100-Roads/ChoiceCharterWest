@@ -1208,7 +1208,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"area",
                  "height":583.473338870786,
                  "id":1,
                  "name":"cluster1.1",
@@ -1224,13 +1223,13 @@
                          "value":-1
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":600.09271824062,
                  "x":2386.91181143212,
                  "y":931.9378326183
                 }, 
                 {
-                 "class":"area",
                  "height":573.955530930536,
                  "id":2,
                  "name":"cluster1.2",
@@ -1246,13 +1245,13 @@
                          "value":-1
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":1205.82376851471,
                  "x":1163.7523285908,
                  "y":936.8986387225
                 }, 
                 {
-                 "class":"area",
                  "height":582.961835343623,
                  "id":3,
                  "name":"cluster1.3",
@@ -1268,13 +1267,13 @@
                          "value":-1
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":574.229691876751,
                  "x":579.193277310924,
                  "y":935.5876017199
                 }, 
                 {
-                 "class":"area",
                  "height":591.293998389967,
                  "id":4,
                  "name":"cluster1.4",
@@ -1290,13 +1289,13 @@
                          "value":-1
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":571.895424836601,
                  "x":2402.2558356676,
                  "y":1830.7452172964
                 }, 
                 {
-                 "class":"area",
                  "height":591.116300586608,
                  "id":5,
                  "name":"cluster1.5",
@@ -1312,13 +1311,13 @@
                          "value":-1
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":588.572364801019,
                  "x":1793.01213818861,
                  "y":1830.9229150997
                 }, 
                 {
-                 "class":"area",
                  "height":589.627565780698,
                  "id":6,
                  "name":"cluster1.6",
@@ -1334,13 +1333,13 @@
                          "value":-1
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":581.232492997199,
                  "x":1188.43697478992,
                  "y":1830.0773828654
                 }, 
                 {
-                 "class":"area",
                  "height":597.298201332029,
                  "id":7,
                  "name":"cluster1.7",
@@ -1356,13 +1355,13 @@
                          "value":-1
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":590.906631841168,
                  "x":576.859010270775,
                  "y":1827.0752813944
                 }, 
                 {
-                 "class":"area",
                  "height":130.944176430048,
                  "id":216,
                  "name":"human1",
@@ -1383,13 +1382,13 @@
                          "value":"Press SPACE or touch here to open 15 Minute Timer"
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":115.7822191592,
                  "x":1224.87663680221,
                  "y":1027.3080634045
                 }, 
                 {
-                 "class":"area",
                  "height":128.187456926258,
                  "id":217,
                  "name":"human2",
@@ -1410,13 +1409,13 @@
                          "value":"Press SPACE or touch here to open Google docs"
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":124.052377670572,
                  "x":1377.87456926258,
                  "y":1030.0647829083
                 }, 
                 {
-                 "class":"area",
                  "height":124.052377670572,
                  "id":218,
                  "name":"human3",
@@ -1437,13 +1436,13 @@
                          "value":"Click HERE to open website in new tab"
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":132.322536181943,
                  "x":1533.62922122674,
                  "y":1032.8215024121
                 }, 
                 {
-                 "class":"area",
                  "height":117.160578911094,
                  "id":219,
                  "name":"human4",
@@ -1464,13 +1463,13 @@
                          "value":"Press SPACE or touch here to open Youtube"
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":129.565816678153,
                  "x":1692.14059269469,
                  "y":1034.199862164
                 }, 
                 {
-                 "class":"area",
                  "height":322.536181943487,
                  "id":220,
                  "name":"human5",
@@ -1491,13 +1490,13 @@
                          "value":"Press SPACE or touch here to open Sketch.io"
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":254.99655410062,
                  "x":2080.83804272915,
                  "y":1054.8752584425
                 }, 
                 {
-                 "class":"area",
                  "height":115.7822191592,
                  "id":221,
                  "name":"human6",
@@ -1518,13 +1517,13 @@
                          "value":"Press SPACE or touch here to open Office Hours"
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":136.457615437629,
                  "x":1463.33287388008,
                  "y":1476.6533425224
                 }, 
                 {
-                 "class":"area",
                  "height":99.2419021364585,
                  "id":222,
                  "name":"human7",
@@ -1545,13 +1544,13 @@
                          "value":"Press SPACE or touch here to open Office Hours"
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":119.917298414886,
                  "x":2695.58649207443,
                  "y":1484.9235010338
                 }, 
                 {
-                 "class":"area",
                  "height":130.27128659683,
                  "id":223,
                  "name":"human8",
@@ -1572,13 +1571,13 @@
                          "value":"Click HERE to open website in new tab"
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":65.8071447757185,
                  "x":896.429760945474,
                  "y":949.4364759602
                 }, 
                 {
-                 "class":"area",
                  "height":127.585280687617,
                  "id":224,
                  "name":"human9",
@@ -1599,13 +1598,13 @@
                          "value":"Click HERE to open website in new tab"
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":57.7491270480795,
                  "x":966.26591458501,
                  "y":950.7794789149
                 }, 
                 {
-                 "class":"area",
                  "height":127.585280687617,
                  "id":225,
                  "name":"human10",
@@ -1626,13 +1625,13 @@
                          "value":"Click HERE to open website in new tab"
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":61.7781359118991,
                  "x":1029.38705345152,
                  "y":950.7794789149
                 }, 
                 {
-                 "class":"area",
                  "height":104.754230459306,
                  "id":226,
                  "name":"human11",
@@ -1653,13 +1652,13 @@
                          "value":"Press SPACE or touch here to open Office Hours"
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":118.184260005372,
                  "x":870.912704807951,
                  "y":1492.0096696213
                 }, 
                 {
-                 "class":"area",
                  "height":98.0392156862745,
                  "id":227,
                  "name":"human12",
@@ -1680,13 +1679,13 @@
                          "value":"Press SPACE or touch here to open Office Hours"
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":124.899274778404,
                  "x":869.569701853344,
                  "y":1884.1665323664
                 }, 
                 {
-                 "class":"area",
                  "height":330.378726833198,
                  "id":228,
                  "name":"human13",
@@ -1707,13 +1706,13 @@
                          "value":"Press SPACE or touch here to open Sketch.io"
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":265.914585012087,
                  "x":603.655116841257,
                  "y":1948.6306741875
                 }, 
                 {
-                 "class":"area",
                  "height":287.19,
                  "id":851,
                  "name":"buzz_4",
@@ -1734,13 +1733,13 @@
                          "value":"Click HERE to open website in new tab"
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":191.95,
                  "x":3487.87,
                  "y":2016.67
                 }, 
                 {
-                 "class":"area",
                  "height":92.2063666300764,
                  "id":881,
                  "name":"exit-to-admin",
@@ -1748,9 +1747,10 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"admin.json#entry"
+                         "value":"https:\/\/play.workadventu.re\/@\/choice-charter-school\/charterverse\/choice-charter-school-admin#entry"
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":96.597145993414,
                  "x":3872.66739846323,
@@ -2878,7 +2878,7 @@
          "value":"The Choice Charter School Virtual Campus Map is the sole property of 100 Roads Inc. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Inc."
         }],
  "renderorder":"right-down",
- "tiledversion":"1.9.2",
+ "tiledversion":"1.8.4",
  "tileheight":32,
  "tilesets":[
         {
@@ -67209,6 +67209,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.9",
+ "version":"1.8",
  "width":149
 }

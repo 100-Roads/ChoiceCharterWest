@@ -1208,7 +1208,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"area",
                  "height":574.751799446348,
                  "id":8,
                  "name":"cluster2.1",
@@ -1224,13 +1223,13 @@
                          "value":-1
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":595.244402173959,
                  "x":574.524743230626,
                  "y":934.10347599716
                 }, 
                 {
-                 "class":"area",
                  "height":577.600834973229,
                  "id":9,
                  "name":"cluster2.2",
@@ -1246,13 +1245,13 @@
                          "value":-1
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":1190.14542672868,
                  "x":1179.43067037683,
                  "y":931.25444047028
                 }, 
                 {
-                 "class":"area",
                  "height":572.932300892933,
                  "id":10,
                  "name":"cluster2.3",
@@ -1268,13 +1267,13 @@
                          "value":-1
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":601.916439546898,
                  "x":2386.57749388157,
                  "y":933.58870751043
                 }, 
                 {
-                 "class":"area",
                  "height":584.270808052168,
                  "id":11,
                  "name":"cluster2.4",
@@ -1290,13 +1289,13 @@
                          "value":-1
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":594.576567743078,
                  "x":576.859010270775,
                  "y":1823.27727784886
                 }, 
                 {
-                 "class":"area",
                  "height":584.093110248808,
                  "id":12,
                  "name":"cluster2.5",
@@ -1312,13 +1311,13 @@
                          "value":-1
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":581.232492997199,
                  "x":1186.10270774977,
                  "y":1825.78924269237
                 }, 
                 {
-                 "class":"area",
                  "height":592.609278034378,
                  "id":13,
                  "name":"cluster2.6",
@@ -1334,13 +1333,13 @@
                          "value":-1
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":604.918541017928,
                  "x":1777.33379640258,
                  "y":1826.6101430674
                 }, 
                 {
-                 "class":"area",
                  "height":578.781373596842,
                  "id":14,
                  "name":"cluster2.7",
@@ -1356,13 +1355,13 @@
                          "value":-1
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":586.90593219175,
                  "x":2387.24532831245,
                  "y":1828.76671230418
                 }, 
                 {
-                 "class":"area",
                  "height":111.940298507461,
                  "id":198,
                  "name":"engineering1",
@@ -1383,13 +1382,13 @@
                          "value":"Press SPACE or touch here to open presentation"
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":133.061109546607,
                  "x":1214.69895803999,
                  "y":1029.11968459589
                 }, 
                 {
-                 "class":"area",
                  "height":111.940298507463,
                  "id":199,
                  "name":"engineering2",
@@ -1410,13 +1409,13 @@
                          "value":"Press SPACE or touch here to open presentation"
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":120.38862292312,
                  "x":1353.3922838637,
                  "y":1015.03914390313
                 }, 
                 {
-                 "class":"area",
                  "height":123.204731061673,
                  "id":200,
                  "name":"engineering3",
@@ -1437,13 +1436,13 @@
                          "value":"Click HERE to open website in new tab"
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":135.173190650521,
                  "x":1532.21515066179,
                  "y":1030.52773866517
                 }, 
                 {
-                 "class":"area",
                  "height":122.769684072679,
                  "id":201,
                  "name":"engineering4",
@@ -1464,13 +1463,13 @@
                          "value":"Press SPACE or touch here to open Kahoot"
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":130.954329677525,
                  "x":1693.6428220658,
                  "y":1031.05843836962
                 }, 
                 {
-                 "class":"area",
                  "height":96.5788181371736,
                  "id":202,
                  "name":"engineering5",
@@ -1491,13 +1490,13 @@
                          "value":"Press SPACE or touch here to open presentation"
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":130.954329677525,
                  "x":2073.41037813063,
                  "y":1026.14765100671
                 }, 
                 {
-                 "class":"area",
                  "height":111.311180225897,
                  "id":203,
                  "name":"engineering6",
@@ -1518,13 +1517,13 @@
                          "value":"Press SPACE or touch here to open presentation"
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":126.043542314618,
                  "x":2214.18628253397,
                  "y":1008.14143067605
                 }, 
                 {
-                 "class":"area",
                  "height":76.9356686855444,
                  "id":205,
                  "name":"engineering7",
@@ -1545,13 +1544,13 @@
                          "value":"Press SPACE or touch here to open Office Hours"
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":150.597479129154,
                  "x":1451.37731216238,
                  "y":1492.67245048289
                 }, 
                 {
-                 "class":"area",
                  "height":117.858896709773,
                  "id":206,
                  "name":"engineering8",
@@ -1572,13 +1571,13 @@
                          "value":"Press SPACE or touch here to open Office Hours"
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":139.13897528237,
                  "x":2679.07415288918,
                  "y":1484.48780487805
                 }, 
                 {
-                 "class":"area",
                  "height":126.978284873021,
                  "id":207,
                  "name":"engineering9",
@@ -1599,13 +1598,13 @@
                          "value":"Press SPACE or touch here to open Office Hours"
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":128.818549871181,
                  "x":2081.64593301435,
                  "y":1840.91571586308
                 }, 
                 {
-                 "class":"area",
                  "height":115.936694884063,
                  "id":208,
                  "name":"engineering10",
@@ -1626,13 +1625,13 @@
                          "value":"Press SPACE or touch here to open presentation"
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":108.575634891424,
                  "x":1800.08538829591,
                  "y":1886.92234081708
                 }, 
                 {
-                 "class":"area",
                  "height":318.365844681635,
                  "id":209,
                  "name":"engineering11",
@@ -1653,13 +1652,13 @@
                          "value":"Press SPACE or touch here to open Whiteboard"
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":250.276039749724,
                  "x":1827.68936326831,
                  "y":1953.17188075083
                 }, 
                 {
-                 "class":"area",
                  "height":103.054839896946,
                  "id":210,
                  "name":"engineering12",
@@ -1680,13 +1679,13 @@
                          "value":"Press SPACE or touch here to open Whiteboard"
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":93.8535149061463,
                  "x":2112.93043798307,
                  "y":2015.74089068826
                 }, 
                 {
-                 "class":"area",
                  "height":106.735369893264,
                  "id":211,
                  "name":"engineering13",
@@ -1707,13 +1706,13 @@
                          "value":"Press SPACE or touch here to open Whiteboard"
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":103.054839896945,
                  "x":2109.24990798675,
                  "y":2174.00368053
                 }, 
                 {
-                 "class":"area",
                  "height":101.214574898786,
                  "id":212,
                  "name":"engineering14",
@@ -1734,13 +1733,13 @@
                          "value":"Press SPACE or touch here to open Whiteboard"
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":114.096429885904,
                  "x":1974.91056312109,
                  "y":2302.82223040118
                 }, 
                 {
-                 "class":"area",
                  "height":103.054839896946,
                  "id":213,
                  "name":"engineering15",
@@ -1761,13 +1760,13 @@
                          "value":"Press SPACE or touch here to open Whiteboard"
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":108.575634891424,
                  "x":1818.48803827751,
                  "y":2302.82223040118
                 }, 
                 {
-                 "class":"area",
                  "height":121.457489878541,
                  "id":214,
                  "name":"engineering16",
@@ -1788,13 +1787,13 @@
                          "value":"Press SPACE or touch here to open Office Hours"
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":119.617224880383,
                  "x":2696.29444239971,
                  "y":1850.11704085388
                 }, 
                 {
-                 "class":"area",
                  "height":163.783584836217,
                  "id":215,
                  "name":"engineering17",
@@ -1815,13 +1814,13 @@
                          "value":"Press SPACE or touch here to open Whiteboard"
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":138.01987486198,
                  "x":2547.23297754877,
                  "y":1851.95730585204
                 }, 
                 {
-                 "class":"area",
                  "height":286.99,
                  "id":852,
                  "name":"buzz_5",
@@ -1842,13 +1841,13 @@
                          "value":"Click HERE to open website in new tab"
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":190.69,
                  "x":3488.62,
                  "y":2016.82
                 }, 
                 {
-                 "class":"area",
                  "height":94.1600721226087,
                  "id":881,
                  "name":"exit-to-admin",
@@ -1856,9 +1855,10 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"admin.json#entry"
+                         "value":"https:\/\/play.workadventu.re\/@\/choice-charter-school\/charterverse\/choice-charter-school-admin#entry"
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":94.1600721226087,
                  "x":3873.58509466092,
@@ -2986,7 +2986,7 @@
          "value":"The Choice Charter School Virtual Campus Map is the sole property of 100 Roads Inc. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Inc."
         }],
  "renderorder":"right-down",
- "tiledversion":"1.9.2",
+ "tiledversion":"1.8.4",
  "tileheight":32,
  "tilesets":[
         {
@@ -67330,6 +67330,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.9",
+ "version":"1.8",
  "width":149
 }

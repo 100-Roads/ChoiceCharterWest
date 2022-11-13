@@ -1208,7 +1208,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"area",
                  "height":570.107897225263,
                  "id":15,
                  "name":"cluster3.1",
@@ -1224,13 +1223,13 @@
                          "value":-1
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":596.243000352348,
                  "x":574.524743230626,
                  "y":930.31040342833
                 }, 
                 {
-                 "class":"area",
                  "height":570.285595028624,
                  "id":16,
                  "name":"cluster3.2",
@@ -1246,13 +1245,13 @@
                          "value":-1
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":1183.47338935574,
                  "x":1180.74170737938,
                  "y":930.953606
                 }, 
                 {
-                 "class":"area",
                  "height":575.444265736441,
                  "id":17,
                  "name":"cluster3.3",
@@ -1268,13 +1267,13 @@
                          "value":-1
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":613.257011000137,
                  "x":2381.24112537039,
                  "y":927.3083019573
                 }, 
                 {
-                 "class":"area",
                  "height":492.562359326098,
                  "id":18,
                  "name":"cluster3.4",
@@ -1290,13 +1289,13 @@
                          "value":-1
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":583.566760037348,
                  "x":574.524743230626,
                  "y":1918.22008698576
                 }, 
                 {
-                 "class":"area",
                  "height":490.623122380996,
                  "id":19,
                  "name":"cluster3.5",
@@ -1312,13 +1311,13 @@
                          "value":-1
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":592.242300702929,
                  "x":1179.43067037683,
                  "y":1917.82505689071
                 }, 
                 {
-                 "class":"area",
                  "height":483.845827561809,
                  "id":20,
                  "name":"cluster3.6",
@@ -1334,13 +1333,13 @@
                          "value":-1
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":584.902428899109,
                  "x":1787.00793524655,
                  "y":1915.2652835493
                 }, 
                 {
-                 "class":"area",
                  "height":490.196730417342,
                  "id":21,
                  "name":"cluster3.7",
@@ -1356,13 +1355,13 @@
                          "value":-1
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":590.906631841169,
                  "x":2387.91316274333,
                  "y":1913.58291477407
                 }, 
                 {
-                 "class":"area",
                  "height":85.9176892639848,
                  "id":196,
                  "name":"agriculture1",
@@ -1383,13 +1382,13 @@
                          "value":"Press SPACE or touch here to open Office Hours"
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":144.911128721839,
                  "x":1456.80606815352,
                  "y":1504.9239274008
                 }, 
                 {
-                 "class":"area",
                  "height":61.2790361287951,
                  "id":197,
                  "name":"agriculture2",
@@ -1410,13 +1409,13 @@
                          "value":"Press SPACE or touch here to open Office Hours"
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":126.797237631609,
                  "x":2689.68278048228,
                  "y":1502.39174390064
                 }, 
                 {
-                 "class":"area",
                  "height":288.93,
                  "id":853,
                  "name":"buzz_6",
@@ -1437,13 +1436,13 @@
                          "value":"Click HERE to open website in new tab"
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":192.18,
                  "x":3456.42,
                  "y":2014.79
                 }, 
                 {
-                 "class":"area",
                  "height":94.7448206164727,
                  "id":881,
                  "name":"exit-to-admin",
@@ -1451,9 +1450,10 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"admin.json#entry"
+                         "value":"https:\/\/play.workadventu.re\/@\/choice-charter-school\/charterverse\/choice-charter-school-admin#entry"
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":96.0080848913594,
                  "x":3872.53663466397,
@@ -2581,7 +2581,7 @@
          "value":"The Choice Charter School Virtual Campus Map is the sole property of 100 Roads Inc. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Inc."
         }],
  "renderorder":"right-down",
- "tiledversion":"1.9.2",
+ "tiledversion":"1.8.4",
  "tileheight":32,
  "tilesets":[
         {
@@ -66938,6 +66938,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.9",
+ "version":"1.8",
  "width":149
 }
