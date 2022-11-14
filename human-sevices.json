@@ -1223,7 +1223,7 @@
                          "value":-1
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":600.09271824062,
                  "x":2386.91181143212,
@@ -1245,7 +1245,7 @@
                          "value":-1
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":1205.82376851471,
                  "x":1163.7523285908,
@@ -1267,7 +1267,7 @@
                          "value":-1
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":574.229691876751,
                  "x":579.193277310924,
@@ -1289,7 +1289,7 @@
                          "value":-1
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":571.895424836601,
                  "x":2402.2558356676,
@@ -1311,7 +1311,7 @@
                          "value":-1
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":588.572364801019,
                  "x":1793.01213818861,
@@ -1333,7 +1333,7 @@
                          "value":-1
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":581.232492997199,
                  "x":1188.43697478992,
@@ -1355,7 +1355,7 @@
                          "value":-1
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":590.906631841168,
                  "x":576.859010270775,
@@ -1382,7 +1382,7 @@
                          "value":"Press SPACE or touch here to open 15 Minute Timer"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":115.7822191592,
                  "x":1224.87663680221,
@@ -1409,7 +1409,7 @@
                          "value":"Press SPACE or touch here to open Google docs"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":124.052377670572,
                  "x":1377.87456926258,
@@ -1436,7 +1436,7 @@
                          "value":"Click HERE to open website in new tab"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":132.322536181943,
                  "x":1533.62922122674,
@@ -1463,7 +1463,7 @@
                          "value":"Press SPACE or touch here to open Youtube"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":129.565816678153,
                  "x":1692.14059269469,
@@ -1490,7 +1490,7 @@
                          "value":"Press SPACE or touch here to open Sketch.io"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":254.99655410062,
                  "x":2080.83804272915,
@@ -1517,7 +1517,7 @@
                          "value":"Press SPACE or touch here to open Office Hours"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":136.457615437629,
                  "x":1463.33287388008,
@@ -1544,7 +1544,7 @@
                          "value":"Press SPACE or touch here to open Office Hours"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":119.917298414886,
                  "x":2695.58649207443,
@@ -1571,7 +1571,7 @@
                          "value":"Click HERE to open website in new tab"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":65.8071447757185,
                  "x":896.429760945474,
@@ -1598,7 +1598,7 @@
                          "value":"Click HERE to open website in new tab"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":57.7491270480795,
                  "x":966.26591458501,
@@ -1625,7 +1625,7 @@
                          "value":"Click HERE to open website in new tab"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":61.7781359118991,
                  "x":1029.38705345152,
@@ -1652,7 +1652,7 @@
                          "value":"Press SPACE or touch here to open Office Hours"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":118.184260005372,
                  "x":870.912704807951,
@@ -1679,7 +1679,7 @@
                          "value":"Press SPACE or touch here to open Office Hours"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":124.899274778404,
                  "x":869.569701853344,
@@ -1706,7 +1706,7 @@
                          "value":"Press SPACE or touch here to open Sketch.io"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":265.914585012087,
                  "x":603.655116841257,
@@ -1733,7 +1733,7 @@
                          "value":"Click HERE to open website in new tab"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":191.95,
                  "x":3487.87,
@@ -1750,7 +1750,7 @@
                          "value":"https:\/\/play.workadventu.re\/@\/choice-charter-school\/charterverse\/choice-charter-school-admin#entry"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":96.597145993414,
                  "x":3872.66739846323,

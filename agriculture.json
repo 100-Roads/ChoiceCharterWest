@@ -1223,7 +1223,7 @@
                          "value":-1
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":596.243000352348,
                  "x":574.524743230626,
@@ -1245,7 +1245,7 @@
                          "value":-1
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":1183.47338935574,
                  "x":1180.74170737938,
@@ -1267,7 +1267,7 @@
                          "value":-1
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":613.257011000137,
                  "x":2381.24112537039,
@@ -1289,7 +1289,7 @@
                          "value":-1
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":583.566760037348,
                  "x":574.524743230626,
@@ -1311,7 +1311,7 @@
                          "value":-1
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":592.242300702929,
                  "x":1179.43067037683,
@@ -1333,7 +1333,7 @@
                          "value":-1
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":584.902428899109,
                  "x":1787.00793524655,
@@ -1355,7 +1355,7 @@
                          "value":-1
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":590.906631841169,
                  "x":2387.91316274333,
@@ -1382,7 +1382,7 @@
                          "value":"Press SPACE or touch here to open Office Hours"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":144.911128721839,
                  "x":1456.80606815352,
@@ -1409,7 +1409,7 @@
                          "value":"Press SPACE or touch here to open Office Hours"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":126.797237631609,
                  "x":2689.68278048228,
@@ -1436,7 +1436,7 @@
                          "value":"Click HERE to open website in new tab"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":192.18,
                  "x":3456.42,
@@ -1453,7 +1453,7 @@
                          "value":"https:\/\/play.workadventu.re\/@\/choice-charter-school\/charterverse\/choice-charter-school-admin#entry"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":96.0080848913594,
                  "x":3872.53663466397,

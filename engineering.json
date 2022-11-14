@@ -1223,7 +1223,7 @@
                          "value":-1
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":595.244402173959,
                  "x":574.524743230626,
@@ -1245,7 +1245,7 @@
                          "value":-1
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":1190.14542672868,
                  "x":1179.43067037683,
@@ -1267,7 +1267,7 @@
                          "value":-1
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":601.916439546898,
                  "x":2386.57749388157,
@@ -1289,7 +1289,7 @@
                          "value":-1
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":594.576567743078,
                  "x":576.859010270775,
@@ -1311,7 +1311,7 @@
                          "value":-1
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":581.232492997199,
                  "x":1186.10270774977,
@@ -1333,7 +1333,7 @@
                          "value":-1
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":604.918541017928,
                  "x":1777.33379640258,
@@ -1355,7 +1355,7 @@
                          "value":-1
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":586.90593219175,
                  "x":2387.24532831245,
@@ -1382,7 +1382,7 @@
                          "value":"Press SPACE or touch here to open presentation"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":133.061109546607,
                  "x":1214.69895803999,
@@ -1409,7 +1409,7 @@
                          "value":"Press SPACE or touch here to open presentation"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":120.38862292312,
                  "x":1353.3922838637,
@@ -1436,7 +1436,7 @@
                          "value":"Click HERE to open website in new tab"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":135.173190650521,
                  "x":1532.21515066179,
@@ -1463,7 +1463,7 @@
                          "value":"Press SPACE or touch here to open Kahoot"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":130.954329677525,
                  "x":1693.6428220658,
@@ -1490,7 +1490,7 @@
                          "value":"Press SPACE or touch here to open presentation"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":130.954329677525,
                  "x":2073.41037813063,
@@ -1517,7 +1517,7 @@
                          "value":"Press SPACE or touch here to open presentation"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":126.043542314618,
                  "x":2214.18628253397,
@@ -1544,7 +1544,7 @@
                          "value":"Press SPACE or touch here to open Office Hours"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":150.597479129154,
                  "x":1451.37731216238,
@@ -1571,7 +1571,7 @@
                          "value":"Press SPACE or touch here to open Office Hours"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":139.13897528237,
                  "x":2679.07415288918,
@@ -1598,7 +1598,7 @@
                          "value":"Press SPACE or touch here to open Office Hours"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":128.818549871181,
                  "x":2081.64593301435,
@@ -1625,7 +1625,7 @@
                          "value":"Press SPACE or touch here to open presentation"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":108.575634891424,
                  "x":1800.08538829591,
@@ -1652,7 +1652,7 @@
                          "value":"Press SPACE or touch here to open Whiteboard"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":250.276039749724,
                  "x":1827.68936326831,
@@ -1679,7 +1679,7 @@
                          "value":"Press SPACE or touch here to open Whiteboard"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":93.8535149061463,
                  "x":2112.93043798307,
@@ -1706,7 +1706,7 @@
                          "value":"Press SPACE or touch here to open Whiteboard"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":103.054839896945,
                  "x":2109.24990798675,
@@ -1733,7 +1733,7 @@
                          "value":"Press SPACE or touch here to open Whiteboard"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":114.096429885904,
                  "x":1974.91056312109,
@@ -1760,7 +1760,7 @@
                          "value":"Press SPACE or touch here to open Whiteboard"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":108.575634891424,
                  "x":1818.48803827751,
@@ -1787,7 +1787,7 @@
                          "value":"Press SPACE or touch here to open Office Hours"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":119.617224880383,
                  "x":2696.29444239971,
@@ -1814,7 +1814,7 @@
                          "value":"Press SPACE or touch here to open Whiteboard"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":138.01987486198,
                  "x":2547.23297754877,
@@ -1841,7 +1841,7 @@
                          "value":"Click HERE to open website in new tab"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":190.69,
                  "x":3488.62,
@@ -1858,7 +1858,7 @@
                          "value":"https:\/\/play.workadventu.re\/@\/choice-charter-school\/charterverse\/choice-charter-school-admin#entry"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":94.1600721226087,
                  "x":3873.58509466092,
