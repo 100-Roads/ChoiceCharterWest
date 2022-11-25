@@ -18,7 +18,7 @@ WA.onInit().then(() => {
     })
 
      // Julia custom
-
+// TEST
      WA.room.onEnterLayer("floor").subscribe(() => {
       WA.room.hideLayer("roof");
       WA.room.hideLayer("walls-bg-front");
